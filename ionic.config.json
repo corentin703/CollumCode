@@ -1,0 +1,7 @@
+{
+  "name": "CodeReader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
