@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'CodeReader',
+  appId: 'fr.collum.CollumCode',
+  appName: 'CollumCode',
   webDir: 'build',
   bundledWebRuntime: false
 };

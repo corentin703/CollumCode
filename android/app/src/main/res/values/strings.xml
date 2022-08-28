@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CollumCode</string>
+    <string name="title_activity_main">CollumCode</string>
+    <string name="package_name" translatable="false">fr.collum.CollumCode</string>
+    <string name="custom_url_scheme" translatable="false">fr.collum.CollumCode</string>
+</resources>

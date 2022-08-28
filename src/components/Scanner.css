@@ -1,0 +1,17 @@
+
+.scan_area_wrapper {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.scan_area {
+  border: solid;
+  border-color: rgba(255, 255, 255, 20%);
+  border-radius: 5px;
+  border-width: 1rem;
+  margin: 5vh;
+  height: 30vh;
+  width: 30vh;
+}
